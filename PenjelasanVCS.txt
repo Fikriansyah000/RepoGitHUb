@@ -1,0 +1,10 @@
+Saya akan menjelaskan apa itu VCS atau Version Control System :
+elemen yang terpenting pada VCS yaitu :
+1. Repository
+2. Push 
+3. Pull 
+4. Commit 
+5. Branch 
+6. Merge 
+7. Remote 
+8. 
